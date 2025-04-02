@@ -1,0 +1,65 @@
+{
+    "mirrored-illusions": [
+      {
+        "src": "images/test.png",
+        "alt": "Reflective water surface with abstract patterns",
+        "caption": "Reflections, 2023"
+      },
+      {
+        "src": "images/test.png",
+        "alt": "Urban reflections in glass buildings",
+        "caption": "City Mirrors, 2023"
+      },
+      {
+        "src": "images/test.png",
+        "alt": "Natural reflections in water",
+        "caption": "Natural Symmetry, 2022"
+      }
+    ],
+    "the-city": [
+      {
+        "src": "images/test.png",
+        "alt": "Hanging scale with bananas beneath",
+        "caption": "Market Scale, 2024"
+      },
+      {
+        "src": "images/test.png",
+        "alt": "Colorful grocery store with various products",
+        "caption": "Local Market, 2023"
+      },
+      {
+        "src": "images/test.png",
+        "alt": "Urban street scene in black and white",
+        "caption": "Downtown, 2023"
+      }
+    ],
+    "growing": [
+      {
+        "src": "images/test.png",
+        "alt": "Black and white landscape with sparse trees",
+        "caption": "Open Space, 2022"
+      },
+      {
+        "src": "images/test.png",
+        "alt": "Pink roses in dark background",
+        "caption": "Bloom, 2024"
+      },
+      {
+        "src": "images/test.png", 
+        "alt": "Young trees in an open field",
+        "caption": "New Growth, 2023"
+      }
+    ],
+    "portraits": [
+      {
+        "src": "images/test.png",
+        "alt": "Portrait in natural lighting",
+        "caption": "Afternoon Light, 2023"
+      },
+      {
+        "src": "images/test.png",
+        "alt": "Environmental portrait in urban setting",
+        "caption": "City Dweller, 2024"
+      }
+    ]
+}

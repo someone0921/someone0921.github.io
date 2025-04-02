@@ -1,0 +1,101 @@
+/* Main styles for the photography portfolio */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Nunito", Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+}
+
+.sidebar {
+    width: 200px;
+    padding: 40px 20px;
+    position: fixed;
+    height: 100vh;
+}
+
+.logo {
+    margin-bottom: 50px;
+}
+
+.logo h1 {
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.logo h2 {
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.menu {
+    list-style: none;
+}
+
+.menu li {
+    margin-bottom: 15px;
+}
+
+.menu a {
+    color: #999;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s;
+}
+
+.menu a:hover, .menu a.active {
+    color: #333;
+}
+
+.content {
+    margin-left: 200px;
+    width: calc(100% - 200px);
+    padding: 40px;
+}
+
+.gallery {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.gallery-item {
+    margin-bottom: 40px;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.caption {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #666;
+}
+
+.page-title {
+    text-align: center;
+    margin-bottom: 40px;
+    font-weight: normal;
+    color: #333;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 60px;
+    border-top: 1px solid #eee;
+    font-size: 12px;
+    color: #999;
+}
+
+.social-icon {
+    color: #999;
+    margin-left: 10px;
+    text-decoration: none;
+}
