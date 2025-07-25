@@ -52,9 +52,10 @@ body {
 }
 
 .content {
-    margin-left: 200px;
-    width: calc(100% - 200px);
-    padding: 40px;
+    max-width: 600px; /* or whatever slim width you want */
+    margin: 0 auto;    /* center horizontally */
+    padding: 20px;     /* optional padding inside */
+    box-sizing: border-box; /* to include padding inside width */
 }
 
 .gallery {
@@ -67,11 +68,15 @@ body {
 }
 
 .gallery-item img {
-    width: 100%;
+    width: 80%;
+    max-width: 100%;
+    margin: 0 auto;
     height: auto;
     display: block;
 }
-
+.gallery-front-page img {
+    width: 200%;
+}
 .caption {
     margin-top: 8px;
     font-size: 14px;
@@ -79,10 +84,10 @@ body {
 }
 
 .page-title {
-    text-align: center;
-    margin-bottom: 40px;
-    font-weight: normal;
-    color: #333;
+    text-align: left;
+    font-size: 1rem; /* smaller size, adjust as needed */
+    margin-left: 0;  /* optional: remove any left margin */
+    margin-bottom: 1rem; /* optional: spacing below */
 }
 
 footer {

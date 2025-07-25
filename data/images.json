@@ -1,64 +1,54 @@
 {
-    "mirrored-illusions": [
-      {
-        "src": "images/Growing/IMG_0044.jpg",
-        "caption": "j, 2023"
-      },
-      {
-        "src": "images/9485.jpg",
-        "alt": "Urban reflections in glass buildings",
-        "caption": "City Mirrors, 2023"
-      },
-      {
-        "src": "images/test.png",
-        "alt": "Natural reflections in water",
-        "caption": "Natural Symmetry, 2022"
-      }
-    ],
-    "the-city": [
-      {
-        "src": "images/test.png",
-        "alt": "Hanging scale with bananas beneath",
-        "caption": "Market Scale, 2024"
-      },
-      {
-        "src": "images/test.png",
-        "alt": "Colorful grocery store with various products",
-        "caption": "Local Market, 2023"
-      },
-      {
-        "src": "images/test.png",
-        "alt": "Urban street scene in black and white",
-        "caption": "Downtown, 2023"
-      }
-    ],
-    "growing": [
-      {
-        "src": "images/test.png",
-        "alt": "Black and white landscape with sparse trees",
-        "caption": "Open Space, 2022"
-      },
-      {
-        "src": "images/test.png",
-        "alt": "Pink roses in dark background",
-        "caption": "Bloom, 2024"
-      },
-      {
-        "src": "images/test.png", 
-        "alt": "Young trees in an open field",
-        "caption": "New Growth, 2023"
-      }
-    ],
-    "portraits": [
-      {
-        "src": "images/test.png",
-        "alt": "Portrait in natural lighting",
-        "caption": "Afternoon Light, 2023"
-      },
-      {
-        "src": "images/test.png",
-        "alt": "Environmental portrait in urban setting",
-        "caption": "City Dweller, 2024"
-      }
-    ]
+"rooted-elsewhere": [
+  { "src": "images/Rooted Elsewhere/6.jpg" },
+  { "src": "images/Rooted Elsewhere/13.jpg" },
+  { "src": "images/Rooted Elsewhere/14.jpg" },
+  { "src": "images/Rooted Elsewhere/10.jpg" },
+  { "src": "images/Rooted Elsewhere/11.jpg" },
+  { "src": "images/Rooted Elsewhere/5.jpg" },
+  { "src": "images/Rooted Elsewhere/3.jpg" },
+  { "src": "images/Rooted Elsewhere/7.jpg" },
+  { "src": "images/Rooted Elsewhere/1.jpg" },
+  { "src": "images/Rooted Elsewhere/12.jpg" },
+  { "src": "images/Rooted Elsewhere/15.jpg" },
+  { "src": "images/Rooted Elsewhere/8.jpg" },
+  { "src": "images/Rooted Elsewhere/9.jpg" },
+  { "src": "images/Rooted Elsewhere/4.jpg" },
+  { "src": "images/Rooted Elsewhere/2.jpg" }
+],
+"mirrored-illusions": [
+  { "src": "images/Mirroed Illusions/5.jpg" },
+  { "src": "images/Mirroed Illusions/2.jpg" },
+  { "src": "images/Mirroed Illusions/6.PNG"},
+  { "src": "images/Mirroed Illusions/1.jpg" },
+  { "src": "images/Mirroed Illusions/7.jpg" },
+  { "src": "images/Mirroed Illusions/3.jpg" },
+  { "src": "images/Mirroed Illusions/8.jpg" },
+  { "src": "images/Mirroed Illusions/4.jpg" }
+],
+"growing": [
+  { "src": "images/Growing/7.jpg" },
+  { "src": "images/Growing/3.jpg" },
+  { "src": "images/Growing/4.jpg" },
+  { "src": "images/Growing/6.jpg" },
+  { "src": "images/Growing/2.jpg" },
+  { "src": "images/Growing/1.jpg" },
+  { "src": "images/Growing/5.jpg" }
+],
+"the-city": [
+  { "src": "images/The City/7.jpg" },
+  { "src": "images/The City/2.jpg" },
+  { "src": "images/The City/4.jpg" },
+  { "src": "images/The City/6.jpg" },
+  { "src": "images/The City/14.jpg" },
+  { "src": "images/The City/11.jpg" },
+  { "src": "images/The City/1.jpg" },
+  { "src": "images/The City/3.jpg" },
+  { "src": "images/The City/5.jpg" },
+  { "src": "images/The City/8.jpg" },
+  { "src": "images/The City/9.jpg" },
+  { "src": "images/The City/11.jpg" },
+  { "src": "images/The City/12.jpg" },
+  { "src": "images/The City/13.jpg" }
+]
 }
